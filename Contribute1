@@ -20,3 +20,6 @@ In this code pattern, we have considered applications for Purchase Agreement and
 
 We will use Python, Jupyter notebook, CNN in Keras libraries and IBM Cloud Object Storage.
 Analyze data using RStudio, Jupyter, and Python in a configured, collaborative environment that includes IBM value-adds, such as managed Spark.
+User uploads test images to IBM Cloud Storage.
+User adds Cloud Object Storage credentials, in Jupyter notebook, for the test images uploaded. User runs the notebook.
+Notebook pulls images from Cloud Object Storage and classifies the images using trained machine learning model.
