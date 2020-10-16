@@ -1,2 +1,9 @@
 Create notebook
 A notebook in Watson Studio is a web-based environment for interactive computing. You can run small pieces of code that process your data, and you can immediately view the results of your computation.
+Login to IBM Cloud Dashboard. Click on the Watson Studio instance that was created earlier. Click Get Started button at the bottom of the page.
+
+If a project is not created earlier then click New Project. Provide any Name. Object Storage instance should already be selected by default. Verify it is the instance that you want to use. If not select the instance you want from drop down list
+Click on Assets tab. Navigate to Notebooks section below. Click Create Notebook
+Select the From URL tab.
+Enter a name for the notebook.
+Optionally, enter a description for the notebook.
