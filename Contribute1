@@ -18,4 +18,5 @@ Dataset preparation for training and testing
 Running notebook for image classification
 In this code pattern, we have considered applications for Purchase Agreement and Rental Agreement. Typical documents that are submitted for these applications are PAN (Permanent Account Number) card, Driving License, Cheque leaf, Passport and the application form itself. This code pattern identifies the application form document from all the other types of documents.
 
-We will use Python, Jupyter notebook, CNN in Keras libraries and IBM Cloud Object Storage
+We will use Python, Jupyter notebook, CNN in Keras libraries and IBM Cloud Object Storage.
+Analyze data using RStudio, Jupyter, and Python in a configured, collaborative environment that includes IBM value-adds, such as managed Spark.
