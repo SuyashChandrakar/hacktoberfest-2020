@@ -1,1 +1,4 @@
 Sign up for IBM Watson Studio
+
+
+Training a machine learning model requires a large number of documents and variety in them. While we have trained and tested the methodology followed in this code pattern, which has given good accuracy (>85%) with a large dataset, we cannot provide those images since they are not publicly available images. 
